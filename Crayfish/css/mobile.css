@@ -1,8 +1,6 @@
 /* Website Template by freewebsitetemplates.com */
 body{
-    overflow:hidden ;
-		/*{
-	min-width: 0;*/
+	min-width: 0;
 }
 #header {
 	padding: 20px 0;
